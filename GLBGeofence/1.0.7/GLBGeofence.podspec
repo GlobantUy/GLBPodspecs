@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'GLBGeofence/Classes/**/*'
   s.frameworks = "Foundation", "UIKit"
-  s.swift_version = "3.2"
+  s.swift_version = "4.2"
 
   # s.resource_bundles = {
   #   'GLBGeofence' => ['GLBGeofence/Assets/*.png']
